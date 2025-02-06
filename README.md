@@ -1,1 +1,1 @@
-# Running_LLM_locally_with_Ollam
+# Running_LLM_locally_with_Ollama
