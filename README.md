@@ -2,6 +2,7 @@
 This repository demonstrates how to run an open-source model locally using [Ollama](https://ollama.com/search). Ollama allows you to easily download and run large language models (LLMs) on your local machine, so you can develop and test locally without relying on cloud-based APIs.
 
 ## **Below is a demonstration of the app's interface:**
+![image](https://github.com/user-attachments/assets/a280c7c1-c53d-4e33-86f7-57a64e8cccb7)
 
 
 ## Prerequisites
