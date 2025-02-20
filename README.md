@@ -21,8 +21,9 @@ ollama pull llama2
 ## Setup
 1. Clone the Repository
    ``` bash
-  git clone https://github.com/aljebraschool/running-llm-locally-with-ollama.git
-  cd running-llm-locally-with-ollama
+   git clone https://github.com/aljebraschool/running-llm-locally-with-ollama.git
+   cd running-llm-locally-with-ollama
+   
    ```
 
 2. Create and activate a virtual environment (optional but recommended)
