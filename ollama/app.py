@@ -24,7 +24,7 @@ question : {question}
 prompt_template = ChatPromptTemplate.from_template(template_string)
 
 # Streamlit framework
-st.title("Langchain demo with gemma2")
+st.title("Running an LLM Locally with Ollama")
 input_text = st.text_input("Type you question in this box")
 
 #build the model
