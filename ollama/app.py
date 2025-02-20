@@ -28,7 +28,7 @@ st.title("LANGCHAIN DEMO WITH LLAMA2")
 input_text = st.text_input("Type you question in this box")
 
 #build the model
-llm = Ollama(model = 'llama2')
+llm = Ollama(model = 'gemma2')
 
 output_parser = StrOutputParser()
 
